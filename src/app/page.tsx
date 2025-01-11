@@ -8,7 +8,7 @@ export default function HeroBullets() {
             <div className={classes.inner}>
                 <div className={classes.content}>
                     <Title className={classes.title}>
-                        A <span className={classes.highlight}>modern</span> React <br /> components library
+                        A <span className={classes.highlight}>Salem</span> Nextjs <br /> components library
                     </Title>
                     <Text c="dimmed" mt="md">
                         Build fully functional accessible web applications faster than ever – Mantine includes
